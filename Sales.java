@@ -8,6 +8,7 @@ public class Sales {
   this.product=product;
   this.soldquantity=soldquantity;
   this.totalBill=product.getSell() * soldquantity;
+  totalSales++;
   }
   public Product getProduct(){
     return product;
