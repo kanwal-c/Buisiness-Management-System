@@ -7,6 +7,7 @@ public class CardPayment extends Payment {
     public void pay() {
         System.out.println("Card Payment");
         System.out.println("Amount: " + amount);
+        System.out.println("Card Payment Successfull");
     }
 }
 
