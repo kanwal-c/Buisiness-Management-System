@@ -93,7 +93,8 @@ The application displays the results of all four management modules in one execu
 This project was developed collaboratively by two students, with responsibilities divided across different management modules and integrated through a common `Main.java` file.
 
 ## Team Member 
-Kanwal Younas -- Employee Management Module
+Kanwal Younas -- Employee Management Module\
+
 Gulnaz Azhar -- Product Ans Sales Management Module
 
 **Developed as a Java Object-Oriented Programming academic project.**
